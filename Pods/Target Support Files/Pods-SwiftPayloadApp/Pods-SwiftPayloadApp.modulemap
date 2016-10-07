@@ -1,0 +1,6 @@
+framework module Pods_SwiftPayloadApp {
+  umbrella header "Pods-SwiftPayloadApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
